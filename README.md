@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juldanumbu
 - 👀 I’m interested in Data Processing
-- 🌱 I’m currently learning Dat Science
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me : juldanriada@gmail.com
 
 <!---
