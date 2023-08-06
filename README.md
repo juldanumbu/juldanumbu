@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juldanumbu
-- 👀 I’m interested in Data Processing
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Programming
+- 🌱 I’m currently working as Software Enginner
 - 📫 How to reach me : juldanriada@gmail.com
 
 <!---
